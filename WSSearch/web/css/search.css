@@ -1,0 +1,81 @@
+.scondition{
+  cursor: pointer;
+}
+
+.treeBox{
+    padding: 2%;
+    margin-bottom: 20px;
+    background-color: white;
+    box-shadow: 0 2px 5px rgba(1,1,1,0.3);
+}
+
+.Aj{
+    padding: 2%;
+    margin-bottom: 20px;
+    background-color: white;
+    /*border: 1px solid gray;*/
+    box-shadow: 0 2px 5px rgba(1,1,1,0.3);
+}
+
+.Aj:hover{
+    background-color: #bfd6ff
+}
+
+.node_name{
+    cursor: pointer;
+}
+
+.AJBiaoTi{
+    font-family: "Microsoft YaHei";
+    font: large bolder;
+    color: black;
+    margin: 2% 0 2% 2%;
+    cursor: pointer;
+}
+
+.AJCiBiaoTi{
+    color: grey;
+    margin: 2% 0 2% 2%;
+    cursor: pointer;
+}
+
+.title-box{
+    margin-bottom: 20px;
+    background-color: #fff;
+    border-radius: 2px;
+
+    padding: 10px 0 10px 10px;
+    font-size: 15px;
+    font-weight: bolder;
+    color: black;
+    box-shadow: 0 2px 5px rgba(1,1,1,0.3);
+}
+
+.sortBtn{
+    font-size: 12px;
+    font-family: "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    height: 30px;
+    line-height: 30px;
+    padding: 0 30px;
+    font-weight: 300;
+    text-align: center;
+    margin: 0 2% 0 0;
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    box-sizing: border-box;
+    transition-property: all;
+    transition-duration: .3s;
+
+    background-color: #f98910;
+    /*border-color: #f98910;*/
+    color: #FFF;
+}
+
+.sortBtn:hover{
+    background-color: #f9b014;
+    border-color: #f9b014;
+    /*color: #FFF;*/
+    text-decoration: none;
+    outline: none;
+}

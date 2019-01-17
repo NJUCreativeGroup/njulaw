@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WSSearch">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="WSSearch.war">
+      <element id="artifact" artifact-name="WSSearch:war exploded" />
+    </root>
+  </artifact>
+</component>
